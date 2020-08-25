@@ -1,3 +1,7 @@
+![iOS](https://img.shields.io/badge/iOS-13%20-blue)
+![Swift](https://img.shields.io/badge/Swift-5-orange?logo=Swift&logoColor=white)
+<a href="https://twitter.com/intent/follow?screen_name=ChrisSong"><img src="https://img.shields.io/badge/@chriisong-x?color=08a0e9&logo=twitter&logoColor=white" /></a>
+
 # Mango Care
 **Mango Care** is a Personal Health Record app that enables patients to keep a well-organized record of their prescriptions, blood glucose values, blood pressure values, weight measurements, and clinic appointments, and set alerts to remind them to take their prescriptions, measure their health indices, and attend their appointments. Mango Care stores all sensitive data in private CloudKit containers to not only keep the user's data data secure, but also to allow ease of use when operating from different device. 
 

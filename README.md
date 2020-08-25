@@ -29,3 +29,7 @@ Mango Care allows for unimpeded access to a patient’s own medical record and w
 
 ### Custom Views and Animation to Present Modal ViewController 
 ![Alt Text](Gifs/AddDoctor.gif)
+
+### Custom CollectionView Cell with Button that updates Core Data Object Values
+![Alt Text](Gifs/Prescription.gif)
+![Alt Text](Gifs/AddDoctor.gif)

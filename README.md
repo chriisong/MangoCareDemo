@@ -2,15 +2,15 @@
 ![Swift](https://img.shields.io/badge/Swift-5-orange?logo=Swift&logoColor=white)
 <a href="https://twitter.com/intent/follow?screen_name=ChrisSong"><img src="https://img.shields.io/badge/@chriisong-x?color=08a0e9&logo=twitter&logoColor=white" /></a>
 
-# Mango Care
-**Mango Care** is a Personal Health Record app that enables patients to keep a well-organized record of their prescriptions, blood glucose values, blood pressure values, weight measurements, and clinic appointments, and set alerts to remind them to take their prescriptions, measure their health indices, and attend their appointments. Mango Care stores all sensitive data in private CloudKit containers to not only keep the user's data data secure, but also to allow ease of use when operating from different device. 
+# mango CARE
+**mango CARE** is a Personal Health Record app that enables patients to keep a well-organized record of their prescriptions, blood glucose values, blood pressure values, weight measurements, and clinic appointments, and set alerts to remind them to take their prescriptions, measure their health indices, and attend their appointments. Mango Care stores all sensitive data using Core Data persistent containers to keep the user's data secure.
 
-Upcoming versions of Mango Care will focus on interactions between the users and their designated clinics or other healthcare facilities. For example, patients will be able to share their data with their medical professionals in order to receive appropriate coaching and prescription adjusting to better suit their current health trend. Moreover, medical professionals will be able to push prescription information to their designated patients, set appointments, or send lab results directly to the users. 
+Upcoming versions of mango CARE will focus on interactions between the users and their designated clinics or other healthcare facilities. For example, patients will be able to share their data with their medical professionals in order to receive appropriate coaching and prescription adjusting to better suit their current health trend. Moreover, medical professionals will be able to push prescription information to their designated patients, set appointments, or send lab results directly to the users. 
 
-Mango Care allows for unimpeded access to a patient’s own medical record and will play a bigger role in the growing telemedicine industry.
+mango CARE allows for unimpeded access to a patient’s own medical record and will play a bigger role in the growing telemedicine industry.
 
-#### Technology: Core Data, CloudKit, UNNotification, Diffable Data Source, REST API
-#### 3rd Party Libraries: FSCalendar, YPImagePicker, Charts
+#### Technology: Core Data, CloudKit, UNNotification, Diffable Data Source, REST API, HealthKit, CareKit
+#### 3rd Party Libraries: FSCalendar, Charts
 ## Screen Recordings
 
 ### Charts to Visualize Health Index Values

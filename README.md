@@ -9,7 +9,7 @@ Upcoming versions of mango CARE will focus on interactions between the users and
 
 mango CARE allows for unimpeded access to a patient’s own medical record and will play a bigger role in the growing telemedicine industry.
 
-#### Technology: Core Data, CloudKit, UNNotification, Diffable Data Source, REST API, HealthKit, CareKit
+#### Technology: Core Data, CloudKit, UNNotification, Diffable Data Source, REST API, Sign-in with Apple, HealthKit, CareKit
 #### 3rd Party Libraries: FSCalendar, Charts
 ## Screen Recordings
 

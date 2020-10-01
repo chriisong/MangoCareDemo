@@ -1,4 +1,4 @@
-![iOS](https://img.shields.io/badge/iOS-13%20-blue)
+![iOS](https://img.shields.io/badge/iOS-14%20-blue)
 ![Swift](https://img.shields.io/badge/Swift-5-orange?logo=Swift&logoColor=white)
 <a href="https://twitter.com/intent/follow?screen_name=ChrisSong"><img src="https://img.shields.io/badge/@chriisong-x?color=08a0e9&logo=twitter&logoColor=white" /></a>
 

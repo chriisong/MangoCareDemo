@@ -32,7 +32,7 @@ mango CARE allows for unimpeded access to a patient’s own medical record and w
 ![Alt Text](Gifs/AddReminder.gif)
 
 ### Custom Views and Animation to Present Modal ViewController 
-![Alt Text](Gifs/AddDoctor.gif)
+![Alt Text](Gifs/AddDoctor2.gif)
 
 ### Custom CollectionView Cell with Button that updates Core Data Object Values
 ![Alt Text](Gifs/Prescription.gif)

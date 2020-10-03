@@ -39,3 +39,6 @@ mango CARE allows for unimpeded access to a patient’s own medical record and w
 
 ### Using CareKit and OCKContacts to add Clinic info with MapKit
 ![Alt Text](Gifs/MapKit.gif)
+
+### Prioritizing Security for Users Using Biometric Lock and Privacy Window
+![Alt Text](Gifs/Biometric.gif)

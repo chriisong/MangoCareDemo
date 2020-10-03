@@ -14,7 +14,7 @@ mango CARE allows for unimpeded access to a patient’s own medical record and w
 ## Screen Recordings
 
 ### Charts to Visualize Health Index Values
-![Alt Text](Gifs/Charts2.gif)
+![Alt Text](Gifs/Charts2.gif) ![Alt Text](Gifs/ChartOptions.gif)
 
 ### URLSession API Call to [Canadian Drug Product Database](https://health-products.canada.ca/api/documentation/dpd-documentation-en.html)
 ![Alt Text](Gifs/DrugDB.gif)

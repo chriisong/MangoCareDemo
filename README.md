@@ -26,7 +26,7 @@ mango CARE allows for unimpeded access to a patient’s own medical record and w
 ![Alt Text](Gifs/Document.gif)
 
 ### Custom Views, UNUserNotificationCenter, FSCalendar to Add Appointment Information
-![Alt Text](Gifs/Appointment.gif)
+![Alt Text](Gifs/AddAppointment2.gif)
 
 ### NSDiffableDataSourceSnapshot to Add or Remove CollectionView Items
 ![Alt Text](Gifs/AddReminder.gif)
@@ -38,3 +38,6 @@ mango CARE allows for unimpeded access to a patient’s own medical record and w
 ![Alt Text](Gifs/Prescription.gif)
 
 ### Focus on Accessibility with Dynamic CollectionView Cell Height
+
+### Using CareKit and OCKContacts to add Clinic info with MapKit
+![Alt Text](Gifs/MapKit.gif)

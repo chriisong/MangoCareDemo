@@ -20,7 +20,7 @@ mango CARE allows for unimpeded access to a patient’s own medical record and w
 ![Alt Text](Gifs/DrugDB.gif)
 
 ### PHPicker to Upload Images
-![Alt Text](Gifs/Radiology.gif)
+![Alt Text](Gifs/Radiology2.gif)
 
 ### UIDocumentPicker
 ![Alt Text](Gifs/Document.gif)

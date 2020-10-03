@@ -36,3 +36,5 @@ mango CARE allows for unimpeded access to a patient’s own medical record and w
 
 ### Custom CollectionView Cell with Button that updates Core Data Object Values
 ![Alt Text](Gifs/Prescription.gif)
+
+### Focus on Accessibility with Dynamic CollectionView Cell Height

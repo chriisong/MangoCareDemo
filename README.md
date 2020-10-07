@@ -11,6 +11,8 @@ mango CARE allows for unimpeded access to a patient’s own medical record and w
 
 #### Technology: Core Data, CloudKit, UNNotification, Diffable Data Source, REST API, Sign-in with Apple, HealthKit, CareKit
 #### 3rd Party Libraries: FSCalendar, Charts
+#### App Store: https://apps.apple.com/ca/app/mango-care/id1530663479
+
 ## Screen Recordings
 
 ### Charts to Visualize Health Index Values
